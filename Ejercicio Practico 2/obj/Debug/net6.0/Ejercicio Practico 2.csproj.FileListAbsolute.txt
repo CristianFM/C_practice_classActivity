@@ -1,0 +1,15 @@
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\obj\Debug\net6.0\Ejercicio Practico 2.csproj.AssemblyReference.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\obj\Debug\net6.0\Ejercicio Practico 2.GeneratedMSBuildEditorConfig.editorconfig
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\obj\Debug\net6.0\Ejercicio Practico 2.AssemblyInfoInputs.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\obj\Debug\net6.0\Ejercicio Practico 2.AssemblyInfo.cs
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\obj\Debug\net6.0\Ejercicio Practico 2.csproj.CoreCompileInputs.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\bin\Debug\net6.0\Ejercicio Practico 2.exe
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\bin\Debug\net6.0\Ejercicio Practico 2.deps.json
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\bin\Debug\net6.0\Ejercicio Practico 2.runtimeconfig.json
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\bin\Debug\net6.0\Ejercicio Practico 2.dll
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\bin\Debug\net6.0\Ejercicio Practico 2.pdb
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\obj\Debug\net6.0\Ejercicio Practico 2.dll
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\obj\Debug\net6.0\refint\Ejercicio Practico 2.dll
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\obj\Debug\net6.0\Ejercicio Practico 2.pdb
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\obj\Debug\net6.0\Ejercicio Practico 2.genruntimeconfig.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Ejercicio Practico 2\obj\Debug\net6.0\ref\Ejercicio Practico 2.dll

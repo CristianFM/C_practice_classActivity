@@ -1,0 +1,15 @@
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\bin\Debug\net6.0\AprendiendoScripting prueba 1.exe
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\bin\Debug\net6.0\AprendiendoScripting prueba 1.deps.json
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\bin\Debug\net6.0\AprendiendoScripting prueba 1.runtimeconfig.json
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\bin\Debug\net6.0\AprendiendoScripting prueba 1.dll
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\bin\Debug\net6.0\AprendiendoScripting prueba 1.pdb
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\obj\Debug\net6.0\AprendiendoScripting prueba 1.csproj.AssemblyReference.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\obj\Debug\net6.0\AprendiendoScripting prueba 1.GeneratedMSBuildEditorConfig.editorconfig
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\obj\Debug\net6.0\AprendiendoScripting prueba 1.AssemblyInfoInputs.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\obj\Debug\net6.0\AprendiendoScripting prueba 1.AssemblyInfo.cs
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\obj\Debug\net6.0\AprendiendoScripting prueba 1.csproj.CoreCompileInputs.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\obj\Debug\net6.0\AprendiendoScripting prueba 1.dll
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\obj\Debug\net6.0\refint\AprendiendoScripting prueba 1.dll
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\obj\Debug\net6.0\AprendiendoScripting prueba 1.pdb
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\obj\Debug\net6.0\AprendiendoScripting prueba 1.genruntimeconfig.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\AprendiendoScripting prueba 1\obj\Debug\net6.0\ref\AprendiendoScripting prueba 1.dll

@@ -1,0 +1,8 @@
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Aprendiendo Scripting\bin\Debug\Aprendiendo Scripting.exe.config
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Aprendiendo Scripting\bin\Debug\Aprendiendo Scripting.exe
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Aprendiendo Scripting\bin\Debug\Aprendiendo Scripting.pdb
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Aprendiendo Scripting\obj\Debug\Aprendiendo Scripting.csproj.AssemblyReference.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Aprendiendo Scripting\obj\Debug\Aprendiendo Scripting.csproj.SuggestedBindingRedirects.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Aprendiendo Scripting\obj\Debug\Aprendiendo Scripting.csproj.CoreCompileInputs.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Aprendiendo Scripting\obj\Debug\Aprendiendo Scripting.exe
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Aprendiendo Scripting\obj\Debug\Aprendiendo Scripting.pdb

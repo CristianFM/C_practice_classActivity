@@ -1,0 +1,30 @@
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\bin\Debug\net6.0\Juego Prueba.exe
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\bin\Debug\net6.0\Juego Prueba.deps.json
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\bin\Debug\net6.0\Juego Prueba.runtimeconfig.json
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\bin\Debug\net6.0\Juego Prueba.dll
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\bin\Debug\net6.0\Juego Prueba.pdb
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\obj\Debug\net6.0\Juego Prueba.csproj.AssemblyReference.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\obj\Debug\net6.0\Juego Prueba.GeneratedMSBuildEditorConfig.editorconfig
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\obj\Debug\net6.0\Juego Prueba.AssemblyInfoInputs.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\obj\Debug\net6.0\Juego Prueba.AssemblyInfo.cs
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\obj\Debug\net6.0\Juego Prueba.csproj.CoreCompileInputs.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\obj\Debug\net6.0\Juego Prueba.dll
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\obj\Debug\net6.0\refint\Juego Prueba.dll
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\obj\Debug\net6.0\Juego Prueba.pdb
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\obj\Debug\net6.0\Juego Prueba.genruntimeconfig.cache
+J:\Material EstudioTrabajo\MasterD\Modulo Programacion\Tema 1 script, variables y funciones\Juego Prueba\obj\Debug\net6.0\ref\Juego Prueba.dll
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\bin\Debug\net6.0\Juego Prueba.exe
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\bin\Debug\net6.0\Juego Prueba.deps.json
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\bin\Debug\net6.0\Juego Prueba.runtimeconfig.json
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\bin\Debug\net6.0\Juego Prueba.dll
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\bin\Debug\net6.0\Juego Prueba.pdb
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\obj\Debug\net6.0\Juego Prueba.csproj.AssemblyReference.cache
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\obj\Debug\net6.0\Juego Prueba.GeneratedMSBuildEditorConfig.editorconfig
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\obj\Debug\net6.0\Juego Prueba.AssemblyInfoInputs.cache
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\obj\Debug\net6.0\Juego Prueba.AssemblyInfo.cs
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\obj\Debug\net6.0\Juego Prueba.csproj.CoreCompileInputs.cache
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\obj\Debug\net6.0\Juego Prueba.dll
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\obj\Debug\net6.0\refint\Juego Prueba.dll
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\obj\Debug\net6.0\Juego Prueba.pdb
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\obj\Debug\net6.0\Juego Prueba.genruntimeconfig.cache
+F:\MaterialEstudioTrabajo\MasterD\Modulo Programacion\Tema 1_2_3\Juego Prueba\obj\Debug\net6.0\ref\Juego Prueba.dll
